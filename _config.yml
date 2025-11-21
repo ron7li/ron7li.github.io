@@ -23,8 +23,8 @@ repository               : "ron7li/ron7li.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Yue Li"
+  avatar           : "personal.png"
+  name             : "Yue Li 李岳"
   pronouns         : # example: "she/her"  
   bio              : "Second-year Master Student in the BME-AIE Program at CMU."
   location         : "United States"
