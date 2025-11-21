@@ -1,6 +1,10 @@
 ---
 permalink: /about/
 title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 Hi! I’m **Yue Li**, a second-year Master’s student in the [**Biomedical Engineering – Artificial Intelligence Engineering (BME-AIE)** Program](https://www.cmu.edu/bme/Academics/artificial-intelligence-engineering/index.html) at [**Carnegie Mellon University**](https://www.cmu.edu/). I am fortunate to be advised by [**Prof. Tai Sing Lee**](https://www.cnbc.cmu.edu/~tai/), with whom I work on computational models inspired by neural mechanisms in the visual cortex.
