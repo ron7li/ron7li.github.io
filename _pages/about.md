@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m **Yue Li**, a second-year Master’s student in the [**Biomedical Engineering – Artificial Intelligence Engineering (BME-AIE)** Program](https://www.cmu.edu/bme/Academics/artificial-intelligence-engineering/index.html) at [**Carnegie Mellon University**](https://www.cmu.edu/). I am fortunate to be advised by [**Prof. Tai Sing Lee**](https://www.cnbc.cmu.edu/~tai/), with whom I work on computational models inspired by neural mechanisms in the visual cortex.
-
-Before joining CMU, I completed my **B.Eng. in Artificial Intelligence** at [**Wuhan University of Technology**](http://english.whut.edu.cn/), where I had the privilege of working with [**Prof. Bingyi Liu**](https://scholar.google.com/citations?user=ECRF9DMAAAAJ&hl=en), [**Prof. Weizhen Liu**](https://scholar.google.com/citations?user=a9P0p34AAAAJ&hl=en), and [**Prof. Nanqing Dong**](https://eveningdong.github.io/) ([Shanghai AI Laboratory](https://www.shlab.org.cn/)).
+Hi! I’m **Yue Li**. I recently received my M.S. in the [**Biomedical Engineering – Artificial Intelligence Engineering (BME-AIE)** Program](https://www.cmu.edu/bme/Academics/artificial-intelligence-engineering/index.html) at [**Carnegie Mellon University**](https://www.cmu.edu/). I am fortunate to be advised by [**Prof. Tai Sing Lee**](https://www.cnbc.cmu.edu/~tai/), with whom I work on the intersection of computational neuroscience and computer vision. During my master’s studies, I also collaborated with [**Prof. Ping Zhang**](https://www.pingzhang.net/) at [**The Ohio State University**](https://www.osu.edu/), [**Prof. Tianlong Chen**](https://tianlong-chen.github.io/) at the [**University of North Carolina at Chapel Hill**](https://www.unc.edu/), and [**Prof. Zhen Tan**](https://zhen-tan-dmml.github.io/) at [**Stevens Institute of Technology**](https://www.stevens.edu/). I will join [**Stevens Institute of Technology**](https://www.stevens.edu/) to begin my Ph.D., advised by [**Prof. Zhen Tan**](https://zhen-tan-dmml.github.io/).
 
 ---
 
@@ -17,9 +15,9 @@ Before joining CMU, I completed my **B.Eng. in Artificial Intelligence** at [**W
 
 - **NeuroAI**, Brain-Inspired AI  
 - **Computer Vision**  
-- **Label-Efficient Learning**, Self-Supervised Learning
 - **Representation Learning**
 - **Multimodal**
+- **World Model**
 
 ---
 

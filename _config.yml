@@ -23,14 +23,14 @@ repository               : "ron7li/ron7li.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "personal.jpg"
+  avatar           : "skyline.png"
   name             : "Yue Li 李岳"
   pronouns         : # example: "she/her"  
-  bio              : "Second-year Master Student in the BME-AIE Program at CMU."
+  bio              : # "Second-year Master Student in the BME-AIE Program at CMU."
   location         : "United States"
   employer         : "Carnegie Mellon University"
   uri              : # URL
-  email            : "yueli4@andrew.cmu.edu" 
+  email            : "yueli4@alumni.cmu.edu" 
 
   # Academic websites
   academia         : # URL
